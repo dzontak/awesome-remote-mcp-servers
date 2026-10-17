@@ -3964,7 +3964,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Find fair meeting times across time zones: show the overlap, convert times and make calendar links.
 - [UseHourly](https://usehourly.app) `https://usehourly.app/api/mcp`
   [![UseHourly MCP connector](https://glama.ai/mcp/connectors/app.usehourly/usehourly/badges/score.svg)](https://glama.ai/mcp/connectors/app.usehourly/usehourly)
-  🔑 - Log time, run timers, manage clients and projects, and create invoices for freelancers.
+  🔐 - Log time, run timers, manage clients and projects, and create invoices for freelancers.
 - [Verant](https://verant.ai) `https://verant.ai/mcp`
   [![Verant MCP connector](https://glama.ai/mcp/connectors/ai.verant/verant/badges/score.svg)](https://glama.ai/mcp/connectors/ai.verant/verant)
   🔐 - Proofread live web pages and whole sites for spelling, grammar, and placeholder text, with a fix for each.
